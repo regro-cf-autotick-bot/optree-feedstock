@@ -1,7 +1,7 @@
 {% set name = "optree" %}
-{% set version = "0.14.1" %}
-{% set sha256 = "c011c6124d6dcbfceade2d7c4f836eab66ed8cf9ab12f94535b41a71dd734637" %}
-{% set build_number = 1 %}
+{% set version = "0.15.0" %}
+{% set sha256 = "d00a45e3b192093ef2cd32bf0d541ecbfc93c1bd73a5f3fe36293499f28a50cf" %}
+{% set build_number = 0 %}
 
 package:
   name: {{ name|lower }}
